@@ -16,7 +16,7 @@ srcGraph.addLink(2, 3);
 
 // And we want to make a "view" into this graph, that contains only
 // two nodes of the original graph (with ids 1 and 2):
-var view = createView(graph, [1, 2]);
+var view = createView(srcGraph, [1, 2]);
 
 // Now the following assertions are correct:
 assert.equal(view.getNodesCount(), 2, 'There are only two nodes in the view');
