@@ -1,6 +1,10 @@
 # ngraph.view
 
-Similar to SQL table view create ngraph view for given nodes
+Similar to SQL table view creates [ngraph](https://github.com/anvaka/ngraph.graph)
+view for given nodes.
+
+The view will contain nodes from original graph; Edges in the view exist if and
+only if they also exist in the original graph.
 
 # usage
 
