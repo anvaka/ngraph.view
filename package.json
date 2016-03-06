@@ -1,0 +1,20 @@
+{
+  "name": "ngraph.view",
+  "version": "1.0.0",
+  "description": "Similar to SQL table view create ngraph view for given nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph",
+    "view",
+    "graph"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ngraph.view"
+  }
+}
