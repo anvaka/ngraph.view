@@ -1,6 +1,6 @@
 {
   "name": "ngraph.view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Similar to SQL table view create ngraph view for given nodes",
   "main": "index.js",
   "scripts": {
